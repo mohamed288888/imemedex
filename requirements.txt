@@ -1,0 +1,6 @@
+Flask==2.1.0
+python-dotenv==0.19.2
+solana==0.23.2
+anchorpy==0.9.1
+requests==2.27.1
+base58==2.0.1
